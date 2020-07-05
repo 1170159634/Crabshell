@@ -4,7 +4,7 @@
 
 ![1](https://github.com/1170159634/Crabshell/blob/master/images/11.jpg)
 
-<img src="(https://github.com/1170159634/Crabshell/blob/master/images/11.jpg" width = "500" height = "700"  />
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/11.jpg" width = "500" height = "700"  />
 
 ## 2.学生端-数据监测画面:
 

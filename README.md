@@ -2,39 +2,37 @@
 
 ## 1.登录界面:
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/11.jpg)
-
 <img src="https://github.com/1170159634/Crabshell/blob/master/images/11.jpg" width = "500" height = "700"  />
 
 ## 2.学生端-数据监测画面:
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/12.jpg)
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/12.jpg" width = "500" height = "700"  />
 
 ## 3.学生端-接受管理员发送的安全日志：
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/13.jpg)
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/13.jpg" width = "500" height = "700"  />
 
 ## 4.学生端-控制宿舍各个开关:
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/14.jpg)
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/14.jpg" width = "500" height = "700"  />
 
 ## 5.学生端-查看某个安全日志:
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/15.jpg)
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/15.jpg" width = "500" height = "700"  />
 
 ## 6.管理员-实时监测所有宿舍：
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/16.jpg)
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/16.jpg" width = "500" height = "700"  />
 
 ## 7.管理员-发送安全日志：
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/17.jpg)
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/17.jpg" width = "500" height = "700"  />
 
 
 
 ## 8.管理员-管理所有安全日志：
 
-![1](https://github.com/1170159634/Crabshell/blob/master/images/18.jpg)
+<img src="https://github.com/1170159634/Crabshell/blob/master/images/18.jpg" width = "500" height = "700"  />
 
 # 二、功能实现及流程图：
 
